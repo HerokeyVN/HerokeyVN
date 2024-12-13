@@ -14,7 +14,7 @@
   ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
   ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
   ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-[C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
+![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
 
 - **Database**:  
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  

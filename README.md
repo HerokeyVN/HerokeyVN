@@ -33,13 +33,15 @@
 ## 📈 **GitHub Stats**
 <p align="center">
   <img
-    src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
-    alt="Herokey's GitHub stats"
-  />
-  <img
     src="https://github-stats-extended-frontend-olive-eta.vercel.app/api/top-langs?username=HerokeyVN&theme=radical&show_icons=true&hide_border=true&layout=compact"
     alt="HerokeyVN's Top Languages"
   />
+  <br>
+  <img
+    src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
+    alt="Herokey's GitHub stats"
+  />
+  <br>
   <img
     src="https://streak-stats.demolab.com?user=HerokeyVN&theme=default&hide_border=true"
     alt="HerokeyVN's GitHub Streak"

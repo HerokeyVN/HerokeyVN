@@ -1,54 +1,100 @@
-# 👋 Hello, I'm **Herokey**!  
+<div align="center">
 
-🌟 **Full-stack Developer** | 💻 Coding Enthusiast | 🚀 Tech Explorer  
+# 👋 Hi, I'm Herokey
 
----
+### 💻 Full-stack Developer • 🚀 Tech Explorer • 🌱 Always Learning
 
-## 🔧 **Tech Stack**
-- **Frontend**:  
-  ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)  
-  ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white)  
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)  
-
-- **Backend**:  
-  ![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)  
-  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  
-  ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
-![C++](https://img.shields.io/badge/-C++-blue?style=flat&logo=cplusplus)
-
-- **Database**:  
-  ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)  
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
-
----
-
-## 🚀 **About Me**
-- 🎓 A passionate **full-stack developer** with expertise in building dynamic web applications.  
-- 🛠 Skilled in multiple programming languages including **HTML5**, **CSS**, **JavaScript**, **PHP**, **C++**, and **Python**.  
-- 🌱 Currently learning advanced cloud computing and DevOps techniques.  
-- 🌍 I love contributing to **open-source projects** and collaborating with other developers.  
-
----
-
-## 📈 **GitHub Stats**
-<p align="center">
-  <img
-    src="https://github-stats-extended-frontend-olive-eta.vercel.app/api/top-langs?username=HerokeyVN&theme=radical&show_icons=true&hide_border=true&layout=compact"
-    alt="HerokeyVN's Top Languages"
-  />
-  <br>
-  <img
-    src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
-    alt="Herokey's GitHub stats"
-  />
-  <br>
-  <img
-    src="./profile/streak.svg"
-    alt="HerokeyVN's GitHub Streak"
-  />
+<p>
+  I enjoy building web applications, exploring new technologies,<br/>
+  and turning questionable ideas into working software.
 </p>
 
+</div>
+
 ---
 
-## 📫 **Connect with Me**  
-- **Email**: [herokey2018@gmail.com](mailto:herokey2018@gmail.com)
+## 👨‍💻 About Me
+
+* 🎓 Passionate about **software development** and building practical applications.
+* 💻 Working with both **frontend** and **backend** technologies.
+* 🧠 Comfortable with **JavaScript, PHP, Python, and C++**.
+* ☁️ Currently exploring **Cloud Computing** and **DevOps**.
+* 🌱 Always learning new technologies and improving my development skills.
+* 🌍 Interested in **open-source projects** and collaborating with other developers.
+
+---
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=html,css,js,ts" alt="Frontend technologies" />
+
+### Backend & Languages
+
+<img src="https://skillicons.dev/icons?i=nodejs,php,python,cpp" alt="Backend technologies and programming languages" />
+
+### Database
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="Databases" />
+
+### Tools
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development tools" />
+
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img
+src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
+alt="Herokey's GitHub Stats"
+/>
+
+<br/>
+
+<img
+src="https://github-stats-extended-frontend-olive-eta.vercel.app/api/top-langs?username=HerokeyVN&theme=radical&show_icons=true&hide_border=true&layout=compact"
+alt="HerokeyVN's Top Languages"
+/>
+
+<br/>
+
+<img
+src="./profile/streak.svg"
+alt="HerokeyVN's GitHub Streak"
+/>
+
+</div>
+
+---
+
+## 📫 Connect with Me
+
+<div align="center">
+
+<a href="mailto:herokey2018@gmail.com">
+  <img src="https://img.shields.io/badge/Email-herokey2018%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+
+<a href="https://github.com/HerokeyVN">
+  <img src="https://img.shields.io/badge/GitHub-HerokeyVN-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### ⭐ Thanks for visiting!
+
+<sub>Keep building. Keep learning. Occasionally remember to sleep.</sub>
+
+</div>

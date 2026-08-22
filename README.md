@@ -53,19 +53,13 @@
 <div align="center">
 
 <img
-src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
-alt="Herokey's GitHub Stats"
-/>
-
-<br/>
-
-<img
 src="https://github-stats-extended-frontend-olive-eta.vercel.app/api/top-langs?username=HerokeyVN&theme=radical&show_icons=true&hide_border=true&layout=compact"
 alt="HerokeyVN's Top Languages"
 />
-
-<br/>
-
+<img
+src="https://github-stats-extended-frontend-olive-eta.vercel.app/api?username=HerokeyVN&show_icons=true&hide_border=true&count_private=true&theme=radical"
+alt="Herokey's GitHub Stats"
+/>
 <img
 src="./profile/streak.svg"
 alt="HerokeyVN's GitHub Streak"

@@ -43,7 +43,7 @@
   />
   <br>
   <img
-    src="https://streak-stats.demolab.com?user=HerokeyVN&theme=default&hide_border=true"
+    src="./profile/streak.svg"
     alt="HerokeyVN's GitHub Streak"
   />
 </p>
